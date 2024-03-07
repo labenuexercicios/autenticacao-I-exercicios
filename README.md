@@ -11,7 +11,7 @@ O exercício de hoje pode parecer repetitivo comparado às práticas da aula, ma
 ### Exercício 1
 
 Instale as dependências necessárias para criação de uuids, tokens jwt e variáveis de ambiente.<br>
-Configure o arquivo .env e refatore os arquivos index.ts e BaseDatabase.ts.
+Configure os arquivos .env e .env.example, e refatore os arquivos index.ts e BaseDatabase.ts.
 
 ### Exercício 2
 
